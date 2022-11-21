@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WEB_Shop_PRN
+build_property.RootNamespace = WEB_Shop_PRN
+build_property.ProjectDir = C:\Users\ducda\source\repos\Web_PRN\WEB_Shop_PRN\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ducda\source\repos\Web_PRN\WEB_Shop_PRN
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/BuyNowProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXEJ1eU5vd1Byb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/BuyProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXEJ1eVByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXENhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/CheckOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXENoZWNrT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXENvbmZpcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/DetailProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXERldGFpbFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Home/SearchOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xIb21lXFNlYXJjaE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ducda/source/repos/Web_PRN/WEB_Shop_PRN/Lapada.Net/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwYWRhLk5ldFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-qezgcv0fgs
